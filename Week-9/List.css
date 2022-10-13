@@ -1,0 +1,27 @@
+.Item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    height: 10px;
+    width: 180px;
+    border: 1px solid black;
+    padding: 10px;
+    background: #FEA889;
+    border-radius: 3px;
+}
+
+.Item p {
+    margin: 3px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS';
+    color: rgb(55, 55, 55);
+}
+
+.Item button {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    border: 1px solid black;
+    border-radius: 3px;
+}
